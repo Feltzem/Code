@@ -1,0 +1,6 @@
+# Ignore data, cache, .github, .vnev folders and workspace file
+/data/
+/cache/
+/.github/
+/.vnev/
+Workspace.code-workspace
